@@ -123,6 +123,4 @@ Gryffindor ron = new Gryffindor("Ron",
 
     }
 
-
-
 }
